@@ -20,7 +20,6 @@ Javascript
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [HTML]([http://url.link.goes.here](https://developer.mozilla.org/es/docs/Web/HTML))
-* [Visual Studio Code]([http://url.link.goes.here](https://code.visualstudio.com/))
-* [JavaScript]([http://url.link.goes.here](https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/JavaScript)))
+* [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
