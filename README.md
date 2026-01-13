@@ -6,7 +6,7 @@ This is a Hello World program written in Javascript using a HTML template, showi
 
 The program was created to do end to end integration with Visual Studio Code (VSC) and Github.
 
-[Hello World Demo Video](https://www.youtube.com/watch?v=gDmGDyzbQLI)
+[Hello World Demo Video](https://www.youtube.com/watch?v=OmYbi97_cOY)
 
 # Development Environment
 
